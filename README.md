@@ -1,4 +1,4 @@
-# Hi there, I'm JorklinR 👋
+# Hi there, I'm Jorklin 👋
 
 ## 🚀 Full Stack Developer & Systems Engineer
 
